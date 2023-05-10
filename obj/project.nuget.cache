@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iL03QqW1mfCfs51u4NO3D9PB1mK8zqgWq7NtQpRMJHZ8Ey1gfa+Jya1K+eoMtSYOUrwtKTYrIS7y3BOuH6OSfQ==",
+  "dgSpecHash": "9HP7lowtP25YRlDIE06KgpDVptFyTONachXOseF2yF5+SgT9lAc/1vQiIa0ILKAZBhh+7ieEs3FCbqftsYMKFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jake9\\Documents\\Corsi\\UMANA-DBA\\Academy\\Progetti\\Temp_mail_API\\Temp_mail_API.csproj",
+  "projectFilePath": "C:\\Users\\jake9\\Documents\\Corsi\\UMANA-DBA\\Academy\\Progetti\\Temp_mail\\Temp_mail_API\\Temp_mail_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jake9\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\jake9\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
